@@ -9,7 +9,7 @@
 #### [Evaluation](#content)
 
 1. **The Eval4NLP Shared Task on Explainable Quality Estimation: Overview and Results.** - 2021 - Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems [paper](https://aclanthology.org/2021.eval4nlp-1.17.pdf)
-2. 
+2. **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.491.pdf) [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
 
 #### [Local Interpretable Model-agnostic Explanations (LIME)](#content)
 
@@ -19,3 +19,5 @@
 #### [Datasets](#content)
 
 1. **HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering.** - 2018 - Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D18-1259/) [data](https://hotpotqa.github.io/)
+2. **QUACKIE: A NLP Classification Task With Ground Truth Explanations.** - 2020 - Arxiv [paper](https://aclanthology.org/D18-1259/) [code](https://github.com/axa-rev-research/quackie)  [site](https://axa-rev-research.github.io/quackie/)
+
