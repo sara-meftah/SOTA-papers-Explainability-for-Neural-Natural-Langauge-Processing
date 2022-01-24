@@ -11,7 +11,7 @@
 1. **The Eval4NLP Shared Task on Explainable Quality Estimation: Overview and Results.** - 2021 - Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems [paper](https://aclanthology.org/2021.eval4nlp-1.17.pdf)
 2. **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.491.pdf) [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
 3. **Measuring and Improving Faithfulness of Attention in Neural Machine Translation** - 2021 - Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/2021.eacl-main.243.pdf)
-4. 
+4. **Evaluating Explanation Methods for Neural Machine Translation** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.35.pdf)
 
 
 
@@ -34,3 +34,8 @@
 
 #### [Anchors](#content)
 1. **Anchors: High-Precision Model-Agnostic Explanations** - 2018 - AAAI Conference on Artificial Intelligence (AAAI) [paper](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) [code](https://github.com/marcotcr/anchor) 
+
+
+#### [Gradient-based explanations](#content)
+1. **Gradient-based Analysis of NLP Models is Manipulable** - 2020 - Findings of the Association for Computational Linguistics: EMNLP 2020 [paper](https://aclanthology.org/2020.findings-emnlp.24.pdf) [code](https://github.com/ucinlp/facade/tree/facade) [site](https://ucinlp.github.io/facade/) 
+
