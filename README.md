@@ -49,6 +49,11 @@
 1. **Born-Again Neural Networks** - 2018 - Proceedings of the 35 th International Conference on Machine Learning [paper](https://proceedings.mlr.press/v80/furlanello18a/furlanello18a.pdf) [code](https://github.com/nocotan/born_again_neuralnet)
 
 
+#### [Counterfactual explanations](#content)
+1. **Counterfactual Memorization in Neural Language Models** - 2021 - Arxiv [paper](https://arxiv.org/abs/2112.12938)
+2. **CausaLM: Causal Model Explanation Through Counterfactual Language Models** - 2021 - Computational Linguistics (2021) [paper](https://direct.mit.edu/coli/article/47/2/333/98518/CausaLM-Causal-Model-Explanation-Through) [code](https://github.com/amirfeder/CausaLM) [data](https://www.kaggle.com/amirfeder/causalm) 
+
+
 
 
 
