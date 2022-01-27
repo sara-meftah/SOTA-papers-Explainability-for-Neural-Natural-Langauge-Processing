@@ -32,18 +32,19 @@
 2. **Explaining the explainer: A first theoretical analysis of LIME.** - 2020 - Proceedings of the 23th International Conference on Artificial Intelligence and Statistics (AISTATS) 2020 [paper](http://proceedings.mlr.press/v108/garreau20a/garreau20a.pdf) 
 3. **Deterministic Local Interpretable Model-Agnostic Explanations for Stable Explainability.** - 2021 - Special Issue Advances in Explainable Artificial Intelligence (XAI) [paper](https://aclanthology.org/D18-1259/) [code](https://www.mdpi.com/2504-4990/3/3/27/htm)  [site](https://github.com/rehmanzafar/dlime_experiments)
 
-#### [Supervised Rationales](#content)
+#### [Supervised Rationalization](#content)
 
 1. **Using “annotator rationales” to improve machine learning for text categorization** - 2007 - Human language technologies 2007: The conference of the North American chapter of the association for computational linguistics (NAACL 2007) [paper](https://aclanthology.org/N07-1033/) 
-2. **Rationale-Augmented Convolutional Neural Networks for Text Classification** - 2016 - Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D16-1076/)  [original code](https://github.com/bwallace/rationale-CNN)  [other implementation](https://github.com/yezhang-xiaofan/Rationale-CNN) 
+2. **Rationale-Augmented Convolutional Neural Networks for Text Classification** - 2016 - Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D16-1076/)  [official code](https://github.com/bwallace/rationale-CNN)  [other implementation](https://github.com/yezhang-xiaofan/Rationale-CNN) 
 3. **Training Classifiers with Natural Language Explanations** - 2018 - Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/P18-1175.pdf) 
 4. **e-SNLI: Natural Language Inference with Natural Language Explanations** - 2018 - 32nd Conference on Neural Information Processing Systems (NeurIPS 2018) [paper](https://papers.nips.cc/paper/2018/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf) [code](https://github.com/OanaMariaCamburu/e-SNLI) 
 5. **Measuring Association Between Labels and Free-Text Rationales** - 2021 - EMNLP 2021 [paper](https://arxiv.org/pdf/2010.12762.pdf) [code](https://github.com/allenai/label_rationale_association) 
 
-#### [Unsupervised Rationales](#content)
+#### [Unsupervised Rationalization](#content)
 
-1. **Rationalizing Neural Predictions** - 2016 - Human language technologies 2007: The conference of the North American chapter of the association for computational linguistics (NAACL 2007) [paper](https://aclanthology.org/N07-1033/) 
-2. **Rationale-Augmented Convolutional Neural Networks for Text Classification** - 2016 - Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D16-1076/)  [original code](https://github.com/bwallace/rationale-CNN)  [other implementation](https://github.com/yezhang-xiaofan/Rationale-CNN) 
+1. **Rationalizing Neural Predictions** - 2016 - Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D16-1011.pdf) [official code](https://github.com/taolei87/rcnn) 
+2. **Rethinking Cooperative Rationalization: Introspective Extraction and Complement Control** - 2019 - Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing [paper](https://arxiv.org/pdf/1910.13294.pdf)  [official code](https://github.com/Gorov/three_player_for_emnlp) 
+3. **Learning to Faithfully Rationalize by Construction** - 2020 - Proceedings of the Association for Computational Linguistics (ACL) [paper](https://aclanthology.org/2020.acl-main.409.pdf)  [official code](https://github.com/successar/FRESH) 
 
 
 #### [Anchors](#content)
