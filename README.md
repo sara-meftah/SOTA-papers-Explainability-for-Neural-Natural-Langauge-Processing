@@ -47,12 +47,31 @@
 3. **Learning to Faithfully Rationalize by Construction** - 2020 - Proceedings of the Association for Computational Linguistics (ACL) [paper](https://aclanthology.org/2020.acl-main.409.pdf)  [official code](https://github.com/successar/FRESH) 
 
 
+#### [Attention Weights as Explanations](#content)
+1. **Neural machine translation by jointly learning to align and translate** - 2015 - 3rd International Conference on Learning Representations, ICLR 2015 [paper](https://arxiv.org/abs/1409.0473)
+2. **Attention is not Explanation** - 2019 - Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/N19-1357.pdf) [official code](https://github.com/successar/AttentionExplanation) 
+3. **Is Attention Interpretable?** - 2019 - Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/P19-1282.pdf) [official code](https://github.com/serrano-s/attn-tests) 
+4. **Attention is not not Explanation** - 2019 - proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) [paper](https://aclanthology.org/D19-1002.pdf) [official code](https://github.com/sarahwie/attention) 
+
+
+
+
 #### [Anchors](#content)
 1. **Anchors: High-Precision Model-Agnostic Explanations** - 2018 - AAAI Conference on Artificial Intelligence (AAAI) [paper](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) [code](https://github.com/marcotcr/anchor) 
 
 
 #### [Gradient-based explanations](#content)
-1. **Gradient-based Analysis of NLP Models is Manipulable** - 2020 - Findings of the Association for Computational Linguistics: EMNLP 2020 [paper](https://aclanthology.org/2020.findings-emnlp.24.pdf) [code](https://github.com/ucinlp/facade/tree/facade) [site](https://ucinlp.github.io/facade/) 
+
+1. **(Not NLP) On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation** - 2015 - International Conference on Machine Learning [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140) 
+2. **Visualizing and Understanding Neural Models in NLP** - 2016 - Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies [paper](https://aclanthology.org/N16-1082/) [official code](https://github.com/jiweil/Visualizing-and-Understanding-Neural-Models-in-NLP)
+3. **(Not NLP) Smoothgrad: removing noise by adding noise** - 2017 - Workshop on Visualization for Deep Learning at ICML 2017 [paper](https://arxiv.org/abs/1706.03825) [code](https://github.com/pikahhh/pytorch-smoothgrad)
+4. **(Not NLP) Learning Important Features Through Propagating Activation Differences** - 2017 - International Conference on Machine Learning [paper](https://dl.acm.org/doi/pdf/10.5555/3305890.3306006) [paper_v2](https://arxiv.org/pdf/1704.02685.pdf) [official code](https://github.com/kundajelab/deeplift)
+5. **(Not NLP) Axiomatic attribution for deep networks** - 2017 - International Conference on Machine Learning [paper](https://dl.acm.org/doi/10.5555/3305890.3306024) [official code](https://github.com/ankurtaly/Integrated-Gradients) [Pytorch implementation](https://github.com/TianhongDai/integrated-gradient-pytorch)
+6. **Explaining Recurrent Neural Network Predictions in Sentiment Analysis** - 2017 - Proceedings of the 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis [paper](https://aclanthology.org/W17-5221.pdf) [official code](https://github.com/ArrasL/LRP_for_LSTM)
+7. **" What is relevant in a text document?": An interpretable machine learning approach** - 2017 - PloS one [paper](https://arxiv.org/abs/1612.07843) [official code](https://github.com/ArrasL/LRP_for_LSTM)
+8. **Did the Model Understand the Question?** - 2018 - Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/P18-1176/) [official code](https://github.com/pramodkaushik/acl18_results)
+9. **Incorporating Priors with Feature Attribution on Text Classification** - 2019 - Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/P19-1631.pdf) [official code](https://github.com/frederick0329/Incorporating-Priors)
+10. **Gradient-based Analysis of NLP Models is Manipulable** - 2020 - Findings of the Association for Computational Linguistics: EMNLP 2020 [paper](https://aclanthology.org/2020.findings-emnlp.24.pdf) [code](https://github.com/ucinlp/facade/tree/facade) [site](https://ucinlp.github.io/facade/) 
 
 #### [Knowledge Destillation](#content)
 1. **Born-Again Neural Networks** - 2018 - Proceedings of the 35 th International Conference on Machine Learning [paper](https://proceedings.mlr.press/v80/furlanello18a/furlanello18a.pdf) [code](https://github.com/nocotan/born_again_neuralnet)
