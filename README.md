@@ -32,6 +32,10 @@
 1. **Does string-based neural MT learn source syntax?** - 2016 - Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D16-1159.pdf)
 2. **Fine-grained analysis of sentence embeddings using auxiliary prediction tasks.** - 2016 - Proceedings of ICLR Conference Track [paper](https://arxiv.org/pdf/1608.04207.pdf)
 3. **Assessing the ability of LSTMs to learn syntax-sensitive dependencies.** - 2016 - Transactions of the Association for Computational Linguistics [paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00115/43378/Assessing-the-Ability-of-LSTMs-to-Learn-Syntax) [code](https://github.com/TalLinzen/rnn_agreement)
+4. **What you can cram into a single vector: Probing sentence embeddings for linguistic properties.** - 2018 - Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/P18-1198.pdf) [data](https://github.com/facebookresearch/SentEval/tree/main/data/probing)
+5. **Syntactic structure from deep learning.** - 2021 - Annual Review of Linguistics [paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-linguistics-032020-051035) 
+6. **Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?** - 2021 - Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/2021.eacl-main.295.pdf) 
+7. **Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals.** - 2021 - Transactions of the Association for Computational Linguistics [paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00359/98091)  [code](https://github.com/yanaiela/amnesic_probing) 
 
 
 #### [Local Interpretable Model-agnostic Explanations (LIME)](#content)
