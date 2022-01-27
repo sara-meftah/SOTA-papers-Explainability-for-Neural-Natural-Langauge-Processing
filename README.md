@@ -19,12 +19,20 @@
 6. **( Not NLP) What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors** - 2021 - KDD '21: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining [paper](https://dl.acm.org/doi/10.1145/3447548.3467213)  
 
 
-
-
 #### [Datasets](#content)
 
 1. **HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering.** - 2018 - Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D18-1259/) [data](https://hotpotqa.github.io/)
 2. **QUACKIE: A NLP Classification Task With Ground Truth Explanations.** - 2020 - Arxiv [paper](https://aclanthology.org/D18-1259/) [code](https://github.com/axa-rev-research/quackie)  [site](https://axa-rev-research.github.io/quackie/)
+
+
+
+
+#### [Probing Classifiers](#content)
+
+1. **Does string-based neural MT learn source syntax?** - 2016 - Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D16-1159.pdf)
+2. **Fine-grained analysis of sentence embeddings using auxiliary prediction tasks.** - 2016 - Proceedings of ICLR Conference Track [paper](https://arxiv.org/pdf/1608.04207.pdf)
+3. **Assessing the ability of LSTMs to learn syntax-sensitive dependencies.** - 2016 - Transactions of the Association for Computational Linguistics [paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00115/43378/Assessing-the-Ability-of-LSTMs-to-Learn-Syntax) [code](https://github.com/TalLinzen/rnn_agreement)
+
 
 #### [Local Interpretable Model-agnostic Explanations (LIME)](#content)
 
