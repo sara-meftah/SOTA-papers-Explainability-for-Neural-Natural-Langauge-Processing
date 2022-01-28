@@ -106,6 +106,10 @@
 2. **CausaLM: Causal Model Explanation Through Counterfactual Language Models** - 2021 - Computational Linguistics (2021) [paper](https://direct.mit.edu/coli/article/47/2/333/98518/CausaLM-Causal-Model-Explanation-Through) [code](https://github.com/amirfeder/CausaLM) [data](https://www.kaggle.com/amirfeder/causalm) 
 
 
-
+#### [Neurons' Activatons](#content)
+1. **Visualizing and Understanding Recurrent Networks** - 2016 - Proceedings of ICLR Conference Track [paper](http://vision.stanford.edu/pdf/KarpathyICLR2016.pdf) [code](https://github.com/shriramsb/Distilling-the-Knowledge-in-a-Neural-Network)
+2. **Learning to generate reviews and discovering sentiment** - 2017 - arxiv [paper](https://arxiv.org/abs/1704.01444) [official code](https://github.com/openai/generating-reviews-discovering-sentiment) [Pytorch implementation](https://github.com/guillitte/pytorch-sentiment-neuron)
+3. **Representation of linguistic form and function in recurrent neural networks** - 2017 - Computational Linguistics [paper](https://direct.mit.edu/coli/article/43/4/761/1583/Representation-of-Linguistic-Form-and-Function-in) 
+4. **Joint Learning of Pre-Trained and Random Units for Domain Adaptation in Part-of-Speech Tagging** - 2019 - Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/N19-1416.pdf) 
 
 
