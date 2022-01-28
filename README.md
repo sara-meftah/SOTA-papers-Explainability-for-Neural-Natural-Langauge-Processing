@@ -12,13 +12,13 @@
 #### [Evaluation](#content)
 
 1. **( Not NLP) On the Robustness of Interpretability Methods** - 2018 - Arxiv [paper](https://arxiv.org/abs/1806.08049)
-1. **( Not NLP) On the (In)fidelity and Sensitivity of Explanations** - 2019 - 33rd Conference on Neural Information Processing Systems (NeurIPS 2019) [paper](https://papers.nips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf)  [code](https://github.com/chihkuanyeh/saliency_evaluation)
-2. **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.491.pdf) [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
-3. **Evaluating Explanation Methods for Neural Machine Translation** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.35.pdf)
-4. **( Not NLP) Fooling lime and shap: Adversarial attacks on post hoc explanation methods** - 2020 - Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society [paper](https://dl.acm.org/doi/pdf/10.1145/3375627.3375830) [official code](https://github.com/dylan-slack/Fooling-LIME-SHAP)
-5. **( Not NLP) What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors** - 2021 - KDD '21: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining [paper](https://dl.acm.org/doi/10.1145/3447548.3467213)  
-6. **The Eval4NLP Shared Task on Explainable Quality Estimation: Overview and Results.** - 2021 - Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems [paper](https://aclanthology.org/2021.eval4nlp-1.17.pdf)
-7. **Measuring and Improving Faithfulness of Attention in Neural Machine Translation** - 2021 - Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/2021.eacl-main.243.pdf)
+4. **( Not NLP) On the (In)fidelity and Sensitivity of Explanations** - 2019 - 33rd Conference on Neural Information Processing Systems (NeurIPS 2019) [paper](https://papers.nips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf)  [code](https://github.com/chihkuanyeh/saliency_evaluation)
+5. **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.491.pdf) [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
+6. **Evaluating Explanation Methods for Neural Machine Translation** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.35.pdf)
+7. **( Not NLP) Fooling lime and shap: Adversarial attacks on post hoc explanation methods** - 2020 - Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society [paper](https://dl.acm.org/doi/pdf/10.1145/3375627.3375830) [official code](https://github.com/dylan-slack/Fooling-LIME-SHAP)
+8. **( Not NLP) What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors** - 2021 - KDD '21: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining [paper](https://dl.acm.org/doi/10.1145/3447548.3467213)  
+9. **The Eval4NLP Shared Task on Explainable Quality Estimation: Overview and Results.** - 2021 - Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems [paper](https://aclanthology.org/2021.eval4nlp-1.17.pdf)
+10. **Measuring and Improving Faithfulness of Attention in Neural Machine Translation** - 2021 - Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/2021.eacl-main.243.pdf)
 
 
 #### [Datasets](#content)
@@ -44,11 +44,12 @@
 
 1. **Why should i trust you?: Explaining the predictions of any classifier.** - 2016 - Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining [paper](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf) [code](https://github.com/marcotcr/lime) 
 2. **A causal framework for explaining the predictions of black-box sequence-to-sequence models.** - 2017 - Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D17-1042.pdf) [code](https://github.com/marcotcr/lime) 
-3.  **An analysis of lime for text data.** - 2021 - Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS) 2021 [paper](http://proceedings.mlr.press/v130/mardaoui21a/mardaoui21a.pdf) 
-4. **Explaining the explainer: A first theoretical analysis of LIME.** - 2020 - Proceedings of the 23th International Conference on Artificial Intelligence and Statistics (AISTATS) 2020 [paper](http://proceedings.mlr.press/v108/garreau20a/garreau20a.pdf) 
-5. **( Not NLP) Fooling lime and shap: Adversarial attacks on post hoc explanation methods** - 2020 - Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society [paper](https://dl.acm.org/doi/pdf/10.1145/3375627.3375830) [official code](https://github.com/dylan-slack/Fooling-LIME-SHAP)
-6. **Deterministic Local Interpretable Model-Agnostic Explanations for Stable Explainability.** - 2021 - Special Issue Advances in Explainable Artificial Intelligence (XAI) [paper](https://aclanthology.org/D18-1259/) [code](https://www.mdpi.com/2504-4990/3/3/27/htm)  [site](https://github.com/rehmanzafar/dlime_experiments)
-7. **Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing.** - 2021 - Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP [paper](https://aclanthology.org/2021.blackboxnlp-1.33.pdf) [code](https://github.com/qdata/textattack-fragile-interpretations)
+3. **( Not NLP) "Why Should You Trust My Explanation?" Understanding Uncertainty in LIME Explanations** - 2019 - Appearing at the International Conference on Machine Learning AI for Social Good Workshop [paper](https://arxiv.org/abs/1904.12991)
+4.  **An analysis of lime for text data.** - 2021 - Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS) 2021 [paper](http://proceedings.mlr.press/v130/mardaoui21a/mardaoui21a.pdf) 
+5. **Explaining the explainer: A first theoretical analysis of LIME.** - 2020 - Proceedings of the 23th International Conference on Artificial Intelligence and Statistics (AISTATS) 2020 [paper](http://proceedings.mlr.press/v108/garreau20a/garreau20a.pdf) 
+6. **( Not NLP) Fooling lime and shap: Adversarial attacks on post hoc explanation methods** - 2020 - Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society [paper](https://dl.acm.org/doi/pdf/10.1145/3375627.3375830) [official code](https://github.com/dylan-slack/Fooling-LIME-SHAP)
+7. **Deterministic Local Interpretable Model-Agnostic Explanations for Stable Explainability.** - 2021 - Special Issue Advances in Explainable Artificial Intelligence (XAI) [paper](https://aclanthology.org/D18-1259/) [code](https://www.mdpi.com/2504-4990/3/3/27/htm)  [site](https://github.com/rehmanzafar/dlime_experiments)
+8. **Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing.** - 2021 - Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP [paper](https://aclanthology.org/2021.blackboxnlp-1.33.pdf) [code](https://github.com/qdata/textattack-fragile-interpretations)
 
 #### [Supervised Rationalization](#content)
 
@@ -93,10 +94,12 @@
 11. **Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing.** - 2021 - Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP [paper](https://aclanthology.org/2021.blackboxnlp-1.33.pdf) [code](https://github.com/qdata/textattack-fragile-interpretations)
 
 #### [Destillation](#content)
-1. **Distilling the knowledge in a neural network** - 2015 - arxiv [paper](https://arxiv.org/abs/1503.02531) [code](https://github.com/shriramsb/Distilling-the-Knowledge-in-a-Neural-Network)
-2. **Distilling a neural network into a soft decision tree** - 2017 - arxiv [paper](https://arxiv.org/pdf/1711.09784.pdf) [code](https://github.com/xuyxu/Soft-Decision-Tree)
-3. **Born-Again Neural Networks** - 2018 - Proceedings of the 35 th International Conference on Machine Learning [paper](https://proceedings.mlr.press/v80/furlanello18a/furlanello18a.pdf) [code](https://github.com/nocotan/born_again_neuralnet)
-
+1. **(Not NLP) Distilling the knowledge in a neural network** - 2015 - arxiv [paper](https://arxiv.org/abs/1503.02531) [code](https://github.com/shriramsb/Distilling-the-Knowledge-in-a-Neural-Network)
+2. **(Not NLP) Distilling a neural network into a soft decision tree** - 2017 - arxiv [paper](https://arxiv.org/pdf/1711.09784.pdf) [code](https://github.com/xuyxu/Soft-Decision-Tree)
+3. **(Not NLP) Born-Again Neural Networks** - 2018 - Proceedings of the 35 th International Conference on Machine Learning [paper](https://proceedings.mlr.press/v80/furlanello18a/furlanello18a.pdf) [code](https://github.com/nocotan/born_again_neuralnet)
+4. **(Not NLP) Distill-and-compare: Auditing black-box models using transparent model distillation** - 2018 - Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society [paper](https://dl.acm.org/doi/abs/10.1145/3278721.3278725)
+5. **(Not NLP) Improving the Interpretability of Deep Neural Networks with Knowledge Distillation** - 2018 - IEEE International Conference on Data Mining Workshops (ICDMW) [paper](https://arxiv.org/pdf/1812.10924.pdf)
+6. **(Not NLP) Learning global additive explanations for neural nets using model distillation** - 2018 - arxiv [paper](https://arxiv.org/abs/1801.08640)
 
 #### [Counterfactual explanations](#content)
 1. **Counterfactual Memorization in Neural Language Models** - 2021 - Arxiv [paper](https://arxiv.org/abs/2112.12938)
