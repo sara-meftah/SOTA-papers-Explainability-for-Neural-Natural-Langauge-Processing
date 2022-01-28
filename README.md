@@ -11,7 +11,8 @@
 
 #### [Evaluation](#content)
 
-1. **( Not NLP) On the Robustness of Interpretability Methods** - 2018 - Arxiv [paper](https://arxiv.org/abs/1806.08049)
+1. **( Not NLP) Interpretation of Neural Networks is Fragile** - 2017 - 31st Conference on Neural Information Processing Systems (NIPS 2017) [paper](https://machine-learning-and-security.github.io/papers/mlsec17_paper_18.pdf)
+2. **( Not NLP) On the Robustness of Interpretability Methods** - 2018 - Arxiv [paper](https://arxiv.org/abs/1806.08049)
 4. **( Not NLP) On the (In)fidelity and Sensitivity of Explanations** - 2019 - 33rd Conference on Neural Information Processing Systems (NeurIPS 2019) [paper](https://papers.nips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf)  [code](https://github.com/chihkuanyeh/saliency_evaluation)
 5. **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.491.pdf) [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
 6. **Evaluating Explanation Methods for Neural Machine Translation** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.35.pdf)
@@ -24,7 +25,8 @@
 #### [Datasets](#content)
 
 1. **HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering.** - 2018 - Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D18-1259/) [data](https://hotpotqa.github.io/)
-2. **QUACKIE: A NLP Classification Task With Ground Truth Explanations.** - 2020 - Arxiv [paper](https://aclanthology.org/D18-1259/) [code](https://github.com/axa-rev-research/quackie)  [site](https://axa-rev-research.github.io/quackie/)
+2. **GLUE: A MULTI-TASK BENCHMARK AND ANALYSIS PLATFORM FOR NATURAL LANGUAGE UNDERSTANDING.** - 2019 - Arxiv [paper](https://openreview.net/pdf?id=rJ4km2R5t7) [code](https://github.com/axa-rev-research/quackie)  [site](https://gluebenchmark.com/tasks)
+3. **QUACKIE: A NLP Classification Task With Ground Truth Explanations.** - 2020 - Arxiv [paper](https://aclanthology.org/D18-1259/) [code](https://github.com/axa-rev-research/quackie)  [site](https://axa-rev-research.github.io/quackie/)
 
 
 
@@ -43,7 +45,7 @@
 #### [Surrogate models](#content)
 
 1. **Why should i trust you?: Explaining the predictions of any classifier.** - 2016 - Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining [paper](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf) [code](https://github.com/marcotcr/lime) 
-2. **A causal framework for explaining the predictions of black-box sequence-to-sequence models.** - 2017 - Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D17-1042.pdf) [code](https://github.com/marcotcr/lime) 
+2. **A causal framework for explaining the predictions of black-box sequence-to-sequence models.** - 2017 - Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D17-1042.pdf) 
 3. **( Not NLP) "Why Should You Trust My Explanation?" Understanding Uncertainty in LIME Explanations** - 2019 - Appearing at the International Conference on Machine Learning AI for Social Good Workshop [paper](https://arxiv.org/abs/1904.12991)
 4.  **An analysis of lime for text data.** - 2021 - Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS) 2021 [paper](http://proceedings.mlr.press/v130/mardaoui21a/mardaoui21a.pdf) 
 5. **Explaining the explainer: A first theoretical analysis of LIME.** - 2020 - Proceedings of the 23th International Conference on Artificial Intelligence and Statistics (AISTATS) 2020 [paper](http://proceedings.mlr.press/v108/garreau20a/garreau20a.pdf) 
@@ -102,8 +104,17 @@
 6. **(Not NLP) Learning global additive explanations for neural nets using model distillation** - 2018 - arxiv [paper](https://arxiv.org/abs/1801.08640)
 
 #### [Counterfactual explanations](#content)
-1. **Counterfactual Memorization in Neural Language Models** - 2021 - Arxiv [paper](https://arxiv.org/abs/2112.12938)
-2. **CausaLM: Causal Model Explanation Through Counterfactual Language Models** - 2021 - Computational Linguistics (2021) [paper](https://direct.mit.edu/coli/article/47/2/333/98518/CausaLM-Causal-Model-Explanation-Through) [code](https://github.com/amirfeder/CausaLM) [data](https://www.kaggle.com/amirfeder/causalm) 
+1. **A causal framework for explaining the predictions of black-box sequence-to-sequence models.** - 2017 - Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D17-1042.pdf) 
+2. **(Not NLP) On the computation of counterfactual explanations--A survey** - 2019 - Arxiv [paper](https://arxiv.org/pdf/1911.07749.pdf) [site](https://github.com/wangyongjie-ntu/awesome-counterfactual-explanations)
+3. **Explaining classifiers with causal concept effect (cace)** - 2019 - Arxiv [paper](https://arxiv.org/abs/1907.07165)
+4. **Investigating Gender Bias in Language Models Using Causal Mediation Analysis.** - 2020 - 34th Conference on Neural Information Processing Systems (NeurIPS 2020) [paper arxiv](https://arxiv.org/pdf/2004.12265.pdf) [paper neurips](https://proceedings.neurips.cc/paper/2020/file/92650b2e92217715fe312e6fa7b90d82-Paper.pdf)  [code](https://github.com/sebastianGehrmann/CausalMediationAnalysis) 
+5. **Counterfactual Memorization in Neural Language Models** - 2021 - Arxiv [paper](https://arxiv.org/abs/2112.12938)
+6. **CausaLM: Causal Model Explanation Through Counterfactual Language Models** - 2021 - Computational Linguistics (2021) [paper](https://direct.mit.edu/coli/article/47/2/333/98518/CausaLM-Causal-Model-Explanation-Through) [code](https://github.com/amirfeder/CausaLM) [data](https://www.kaggle.com/amirfeder/causalm) 
+7. **Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals.** - 2021 - Transactions of the Association for Computational Linguistics [paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00359/98091)  [code](https://github.com/yanaiela/amnesic_probing) 
+8. **Explaining nlp models via minimal contrastive editing (mice).** - 2021 - Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 [paper](https://aclanthology.org/2021.findings-acl.336.pdf)  [code](https://github.com/allenai/mice) 
+9. **Polyjuice: Automated, general-purpose counterfactual generation.** - 2021 - ACL 2021 [paper](https://arxiv.org/pdf/2101.00288.pdf)  [code](https://github.com/tongshuangwu/polyjuice)  [site](https://huggingface.co/uw-hai/polyjuice) 
+
+
 
 
 #### [Neurons' Activatons](#content)
@@ -112,4 +123,7 @@
 3. **Representation of linguistic form and function in recurrent neural networks** - 2017 - Computational Linguistics [paper](https://direct.mit.edu/coli/article/43/4/761/1583/Representation-of-Linguistic-Form-and-Function-in) 
 4. **Joint Learning of Pre-Trained and Random Units for Domain Adaptation in Part-of-Speech Tagging** - 2019 - Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/N19-1416.pdf) 
 
-
+#### [Influence Functions](#content)
+1. **(Not NLP) Understanding Black-box Predictions via Influence Functions** - 2017 - International Conference on Machine Learning [paper](https://proceedings.mlr.press/v70/koh17a/koh17a.pdf) [code](https://github.com/kohpangwei/influence-release)
+2. **Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.492.pdf) [code](https://github.com/xhan77/influence-function-analysis)
+3. **(Not NLP) Influence functions in deep learning are fragile** - 2021 - International Conference on Learning Representations [paper](https://arxiv.org/pdf/2006.14651.pdf) [code](https://github.com/xhan77/influence-function-analysis)
