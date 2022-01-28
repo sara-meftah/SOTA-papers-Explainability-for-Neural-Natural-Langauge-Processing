@@ -2,24 +2,30 @@
 
 
 #### [Surveys](#content)
-1. **A Survey on Explainability in Machine Reading Comprehension.** - 2020 - Arxiv [paper](https://arxiv.org/abs/2010.00389)
-2. **A Diagnostic Study of Explainability Techniques for Text Classification.** - 2020 - Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/2020.emnlp-main.263.pdf) 
-3. **A Survey of the State of Explainable AI for Natural Language Processing.** - 2020 - AACL 2020 [paper](https://arxiv.org/abs/2010.00711) [site](https://xainlp2020.github.io/xainlp/)
-4. **( Not NLP) Evaluating the Quality of Machine Learning Explanations: A Survey on Methods and Metrics** - 2021 - MDPI [paper](https://www.mdpi.com/2079-9292/10/5/593)  
+1. **Analysis methods in neural language processing: A survey.** - 2020 - Transactions of the Association for Computational Linguistics [paper](https://aclanthology.org/Q19-1004.pdf)
+2. **A Survey on Explainability in Machine Reading Comprehension.** - 2020 - Arxiv [paper](https://arxiv.org/abs/2010.00389)
+3. **A Diagnostic Study of Explainability Techniques for Text Classification.** - 2020 - Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/2020.emnlp-main.263.pdf) 
+4. **A Survey of the State of Explainable AI for Natural Language Processing.** - 2020 - AACL 2020 [paper](https://arxiv.org/abs/2010.00711) [site](https://xainlp2020.github.io/xainlp/)
+5. **( Not NLP) Evaluating the Quality of Machine Learning Explanations: A Survey on Methods and Metrics** - 2021 - MDPI [paper](https://www.mdpi.com/2079-9292/10/5/593)  
 
 
 
 #### [Evaluation](#content)
 
-1. **( Not NLP) Interpretation of Neural Networks is Fragile** - 2017 - 31st Conference on Neural Information Processing Systems (NIPS 2017) [paper](https://machine-learning-and-security.github.io/papers/mlsec17_paper_18.pdf)
-2. **( Not NLP) On the Robustness of Interpretability Methods** - 2018 - Arxiv [paper](https://arxiv.org/abs/1806.08049)
-4. **( Not NLP) On the (In)fidelity and Sensitivity of Explanations** - 2019 - 33rd Conference on Neural Information Processing Systems (NeurIPS 2019) [paper](https://papers.nips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf)  [code](https://github.com/chihkuanyeh/saliency_evaluation)
-5. **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.491.pdf) [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
-6. **Evaluating Explanation Methods for Neural Machine Translation** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.35.pdf)
-7. **( Not NLP) Fooling lime and shap: Adversarial attacks on post hoc explanation methods** - 2020 - Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society [paper](https://dl.acm.org/doi/pdf/10.1145/3375627.3375830) [official code](https://github.com/dylan-slack/Fooling-LIME-SHAP)
-8. **( Not NLP) What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors** - 2021 - KDD '21: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining [paper](https://dl.acm.org/doi/10.1145/3447548.3467213)  
-9. **The Eval4NLP Shared Task on Explainable Quality Estimation: Overview and Results.** - 2021 - Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems [paper](https://aclanthology.org/2021.eval4nlp-1.17.pdf)
-10. **Measuring and Improving Faithfulness of Attention in Neural Machine Translation** - 2021 - Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/2021.eacl-main.243.pdf)
+1. **( Not NLP) Evaluating the visualization of what a Deep Neural Network has learned** - 2016 - IEEE transactions on neural networks and learning systems [paper](https://arxiv.org/pdf/1509.06321.pdf)
+2.  **( Not NLP) Interpretation of Neural Networks is Fragile** - 2017 - 31st Conference on Neural Information Processing Systems (NIPS 2017) [paper](https://machine-learning-and-security.github.io/papers/mlsec17_paper_18.pdf)
+3. **( Not NLP) On the Robustness of Interpretability Methods** - 2018 - Arxiv [paper](https://arxiv.org/abs/1806.08049)
+4. **Comparing automatic and human evaluation of local explanations for text classification** - 2018 - Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/N18-1097.pdf)
+5. **( Not NLP) On the (In)fidelity and Sensitivity of Explanations** - 2019 - 33rd Conference on Neural Information Processing Systems (NeurIPS 2019) [paper](https://papers.nips.cc/paper/2019/file/a7471fdc77b3435276507cc8f2dc2569-Paper.pdf)  [code](https://github.com/chihkuanyeh/saliency_evaluation)
+6. **( Not NLP) A Benchmark for Interpretability Methods in Deep Neural Networks** - 2019 - 33rd Conference on Neural Information Processing Systems (NeurIPS 2019) [paper](https://proceedings.neurips.cc/paper/2019/file/fe4b8556000d0f0cae99daa5c5c5a410-Paper.pdf) 
+7. **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.491.pdf) [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
+8. **Evaluating Explanation Methods for Neural Machine Translation** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.35.pdf)
+9. **Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness?** - 2020 - Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.386.pdf)
+10. **ERASER: A Benchmark to Evaluate Rationalized NLP Models** - 2020 - Transactions of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.408.pdf)  [code](https://github.com/jayded/eraserbenchmark)  [site](http://www.eraserbenchmark.com/)
+11. **( Not NLP) Fooling lime and shap: Adversarial attacks on post hoc explanation methods** - 2020 - Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society [paper](https://dl.acm.org/doi/pdf/10.1145/3375627.3375830) [official code](https://github.com/dylan-slack/Fooling-LIME-SHAP)
+12. **( Not NLP) What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors** - 2021 - KDD '21: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining [paper](https://dl.acm.org/doi/10.1145/3447548.3467213)  
+13. **The Eval4NLP Shared Task on Explainable Quality Estimation: Overview and Results.** - 2021 - Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems [paper](https://aclanthology.org/2021.eval4nlp-1.17.pdf)
+14. **Measuring and Improving Faithfulness of Attention in Neural Machine Translation** - 2021 - Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/2021.eacl-main.243.pdf)
 
 
 #### [Datasets](#content)
@@ -27,7 +33,7 @@
 1. **HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering.** - 2018 - Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing [paper](https://aclanthology.org/D18-1259/) [data](https://hotpotqa.github.io/)
 2. **GLUE: A MULTI-TASK BENCHMARK AND ANALYSIS PLATFORM FOR NATURAL LANGUAGE UNDERSTANDING.** - 2019 - Arxiv [paper](https://openreview.net/pdf?id=rJ4km2R5t7) [code](https://github.com/axa-rev-research/quackie)  [site](https://gluebenchmark.com/tasks)
 3. **QUACKIE: A NLP Classification Task With Ground Truth Explanations.** - 2020 - Arxiv [paper](https://aclanthology.org/D18-1259/) [code](https://github.com/axa-rev-research/quackie)  [site](https://axa-rev-research.github.io/quackie/)
-
+4. **ERASER: A Benchmark to Evaluate Rationalized NLP Models** - 2020 - Transactions of the Association for Computational Linguistics [paper](https://aclanthology.org/2020.acl-main.408.pdf)  [code](https://github.com/jayded/eraserbenchmark)  [site](http://www.eraserbenchmark.com/)
 
 
 
