@@ -26,6 +26,7 @@
 12. **( Not NLP) What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors** - 2021 - KDD '21: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining [paper](https://dl.acm.org/doi/10.1145/3447548.3467213)  
 13. **The Eval4NLP Shared Task on Explainable Quality Estimation: Overview and Results.** - 2021 - Proceedings of the 2nd Workshop on Evaluation and Comparison of NLP Systems [paper](https://aclanthology.org/2021.eval4nlp-1.17.pdf)
 14. **Measuring and Improving Faithfulness of Attention in Neural Machine Translation** - 2021 - Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics [paper](https://aclanthology.org/2021.eacl-main.243.pdf)
+15. **Quantifying Explainability in NLP and Analyzing Algorithms for Performance-Explainability Tradeoff** - 2021 - Workshop on Interpretable ML in Healthcare at International Conference on Machine Learning (ICML) [paper](https://arxiv.org/abs/2107.05693) [code](https://github.com/mnaylor5/quantifying-explainability)
 
 
 #### [Datasets](#content)
